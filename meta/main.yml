@@ -1,6 +1,6 @@
 ---
 galaxy_info:
-  role_name: "jenkins-slave"
+  role_name: "jenkins_slave"
   author: "Lean Delivery Team <team@lean-delivery.com>"
   description: "Jenkins Slave Role"
   company: "EPAM Systems"
