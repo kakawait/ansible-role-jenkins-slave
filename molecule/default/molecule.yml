@@ -54,6 +54,6 @@ verifier:
   name: testinfra
   options:
     verbose: true
-  directory: ../resources/tests/
+  directory: ../resources/docker_tests/
   lint:
     name: flake8
